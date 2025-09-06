@@ -1,0 +1,19 @@
+//REST API - JSON
+
+GET /users -> List all users
+GET /users/1 -> Get the user with ID 1
+GET /users/2 -> Get the user with ID 2
+
+POST /users -> Create new user
+
+PATCH /users/1 -> Update the user with ID 1
+
+Dynamic path parameters
+
+DELETE /users/1 -> DELETE the user with ID 1
+
+https://www.mockaroo.com/ => Fake data generate
+
+mongoDB
+-------
+mongodb://localhost:27017
